@@ -1,0 +1,14 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+.frame-container{
+    display: flex;
+    width:-webkit-fill-available;
+    height:-webkit-fill-available;
+}
+.frame-register{
+    display: flex;
+    width:-webkit-fill-available;
+    height:-webkit-fill-available;
+}
